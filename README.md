@@ -14,6 +14,7 @@ Sou estudante de desenvolvimento Front-end, focado em aprimorar e expandir meus 
 ![Sass](https://img.shields.io/badge/Sass-343439?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343439?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-343439?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-343439?style=for-the-badge&logo=astro&logoColor=FFF)
 ![Git](https://img.shields.io/badge/GIT-343439?style=for-the-badge&logo=git&logoColor=E44C30)
 ![Figma](https://img.shields.io/badge/Figma-343439?style=for-the-badge&logo=figma&logoColor=figma)
 

@@ -1,10 +1,15 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://i.postimg.cc/PxjMKvLC/octocat-1745690197234.png">
 
-# 👋 Prazer! Sou `</Mateus Ferreira>`.
+# 👋 Prazer! Sou Mateus Ferreira
 
 Sou estudante de desenvolvimento Front-end, focado em aprimorar e expandir meus conhecimentos. Tenho experiência com HTML, CSS, JavaScript, React, SCSS, Tailwind, Git e Figma. Sou organizado e movido pelo gosto contínuo pelo aprendizado. Estou em busca de novos desafios e da minha primeira oportunidade na área para crescer como desenvolvedor. 🤩🔥
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-343439?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fc/)
+<a href="https://www.linkedin.com/in/mateus-fc/" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn Badge" height="25" src="https://img.shields.io/badge/LinkedIn-343439?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.codewars.com/users/mateus-f" target="_blank" rel="noopener noreferrer">
+  <img alt="Mateus Ferreira's Codewars Stats" height="25" src="https://www.codewars.com/users/mateus-f/badges/micro">
+</a>
 
 ## Habilidades
 

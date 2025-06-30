@@ -28,5 +28,5 @@ Sou estudante de desenvolvimento Front-end, focado em aprimorar e expandir meus 
 
 <div style="display:flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=mateus-f&theme=transparent&bg_color=343439&hide_border=true&show_icons=true&icon_color=FFF&hide_title=true&text_color=FFF" height="150px">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateus-f&layout=compact&bg_color=343439&hide_border=true&title_color=FFF&text_color=FFF" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-f&layout=compact&bg_color=343439&hide_border=true&title_color=FFF&text_color=FFF" height="150px">
 </div>

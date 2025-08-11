@@ -1,6 +1,6 @@
 # 👋 Prazer! Sou Mateus Ferreira
 
-- 🎓 Estudante de Desenvolvimento Front-end
+- 🎓 Estudante de Ciências da Computação
 - 📚 Aprofundando meus estudos em JavaScript moderno e construção de interfaces modernas
 - 🛠️ Tenho experiência com HTML, CSS, JavaScript, React, SCSS, Tailwind, Git e Figma
 - 🧠 Sou organizado, curioso e movido pelo gosto contínuo pelo aprendizado

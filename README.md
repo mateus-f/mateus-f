@@ -16,7 +16,7 @@
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,git,figma)](https://skillicons.dev)
 
 
 ## Github Stats

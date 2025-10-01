@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Ciências da Computação
 - 📚 Aprofundando meus estudos em JavaScript moderno e construção de interfaces modernas
-- 🛠️ Tenho experiência com HTML, CSS, JavaScript, React, SCSS, Tailwind, Git e Figma
+- 🛠️ Tenho experiência com HTML, CSS, JavaScript, SCSS, Tailwind, Git e Figma
 - 🧠 Sou organizado, curioso e movido pelo gosto contínuo pelo aprendizado
 - 🚀 Busco novos desafios e minha primeira oportunidade na área para crescer como desenvolvedor
 
@@ -16,7 +16,7 @@
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
 
 
 ## Github Stats

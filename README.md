@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Ciências da Computação
 - 📚 Aprofundando meus estudos em JavaScript moderno e construção de interfaces modernas
-- 🛠️ Tenho experiência com HTML, CSS, JavaScript, SCSS, Tailwind, Git e Figma
+- 🛠️ Experiência com POO em Java, HTML, CSS, SCSS, Tailwind, Git, Figma, Jest, JUnit e PostgreSQL
 - 🧠 Sou organizado, curioso e movido pelo gosto contínuo pelo aprendizado
 - 🚀 Busco novos desafios e minha primeira oportunidade na área para crescer como desenvolvedor
 
@@ -16,12 +16,12 @@
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,jest,java,postgres,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
 
 
 ## Github Stats
 
 <div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-f&theme=transparent&bg_color=343439&hide_border=true&show_icons=true&icon_color=FFF&hide_title=true&text_color=FFF" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-f&layout=compact&bg_color=343439&hide_border=true&title_color=FFF&text_color=FFF" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus-f&theme=transparent&bg_color=0a0a0a44&hide_border=true&show_icons=true&icon_color=f0f0f0&hide_title=true&text_color=f0f0f0" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-f&layout=compact&bg_color=0a0a0a44&hide_border=true&title_color=f0f0f0&text_color=f0f0f0" height="150px">
 </div>

@@ -17,11 +17,3 @@
 ## Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,jest,java,postgres,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
-
-
-## Github Stats
-
-<div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-f&theme=transparent&bg_color=0a0a0a44&hide_border=true&show_icons=true&icon_color=f0f0f0&hide_title=true&text_color=f0f0f0" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-f&layout=compact&bg_color=0a0a0a44&hide_border=true&title_color=f0f0f0&text_color=f0f0f0" height="150px">
-</div>

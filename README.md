@@ -1,19 +1,18 @@
 # 👋 Prazer! Sou Mateus Ferreira
 
-- 🎓 Estudante de Ciências da Computação
-- 📚 Aprofundando meus estudos em JavaScript moderno e construção de interfaces modernas
-- 🛠️ Experiência com POO em Java, HTML, CSS, SCSS, Tailwind, Git, Figma, Jest, JUnit e PostgreSQL
-- 🧠 Sou organizado, curioso e movido pelo gosto contínuo pelo aprendizado
-- 🚀 Busco novos desafios e minha primeira oportunidade na área para crescer como desenvolvedor
+Estudante de Ciências da Computação e Estagiário em Qualidade de Software (QA).
 
-<a href="https://www.linkedin.com/in/mateus-fc/" target="_blank" rel="noopener noreferrer">
-  <img alt="LinkedIn Badge" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+- 🎓 Graduando em Ciências da Computação no IFCE.
+- 🧪 Atuando com QA e Automação de Testes (Playwright, BDD, Gherkin).
+- ☕ Desenvolvimento de APIs REST com Java & Spring Boot.
+- 📐 Criação de interfaces modernas e responsivas com Angular.
+- 🧠 Movido pela cultura de qualidade e aprendizado contínuo.
 
-<a href="https://www.codewars.com/users/mateus-f" target="_blank" rel="noopener noreferrer">
-  <img alt="Mateus Ferreira's Codewars Stats" src="https://www.codewars.com/users/mateus-f/badges/micro">
-</a>
+## Tech Stack
 
-## Habilidades
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,angular,ts,js,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,jest,java,postgres,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
+## Social
+
+[![Mateus Ferreira's LinkedIn](https://img.shields.io/badge/LinkerdIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/mateus-fc)
+[![Mateus Ferreira's Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/mateus-f)

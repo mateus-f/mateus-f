@@ -14,5 +14,5 @@ Estudante de Ciências da Computação e Estagiário em Qualidade de Software (Q
 
 ## Social
 
-[![Mateus Ferreira's LinkedIn](https://img.shields.io/badge/LinkerdIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/mateus-fc)
+[![Mateus Ferreira's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/mateus-fc)
 [![Mateus Ferreira's Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/mateus-f)

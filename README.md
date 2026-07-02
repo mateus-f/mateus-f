@@ -1,16 +1,27 @@
 # 👋 Prazer! Sou Mateus Ferreira
 
-Estudante de Ciências da Computação e Estagiário em Qualidade de Software (QA).
+**Estagiário de QA** com base sólida em desenvolvimento de software. 
 
-- 🎓 Graduando em Ciências da Computação no IFCE.
-- 🧪 Atuando com QA e Automação de Testes (Playwright, BDD, Gherkin).
-- ☕ Desenvolvimento de APIs REST com Java & Spring Boot.
-- 📐 Criação de interfaces modernas e responsivas com Angular.
-- 🧠 Movido pela cultura de qualidade e aprendizado contínuo.
+Utilizo meu conhecimento em arquitetura backend e desenvolvimento frontend para construir testes automatizados mais eficientes, entender as regras de negócio a fundo e garantir a entrega de software com excelência.
+
+- 🎓 Graduando em Ciência da Computação no IFCE.
+- 🧪 Atuando com QA e Automação de Testes.
+- ☕ Experiência e base técnica em desenvolvimento de APIs REST com Java & Spring Boot.
+- 📐 Domínio de desenvolvimento de interfaces com Angular & TypeScript.
+- 🧠 Unindo a mentalidade de desenvolvimento com a cultura de qualidade e automação.
 
 ## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,angular,ts,js,html,css,tailwind,sass,git,figma)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=checkmarx&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=speedtest&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Social
 
